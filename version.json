@@ -1,1 +1,7 @@
-{"apk_url":"https://tmpfiles.org/wjAHnYNCcaM2/nexa.apk","notes":"A new version of Nexa is ready with the latest improvements and fixes. Please update to continue enjoying the best experience.","version_code":46,"version_name":"4.6","vpn_apk_url":"https://tmpfiles.org/wGAfnmN4cRob/greenvpn_panel.apk"}
+{
+  "version_code": 47,
+  "version_name": "4.7",
+  "notes": "A new version of Nexa is ready with the latest improvements and fixes. Please update to continue enjoying the best experience.",
+  "apk_url": "https://tmpfiles.org/dl/w1AbndNP1Nos/Nexa.apk",
+  "vpn_apk_url": "https://tmpfiles.org/dl/wNAunrNR1VWd/GreenVPN_Panel.apk"
+}
